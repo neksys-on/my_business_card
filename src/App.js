@@ -33,13 +33,13 @@ function App() {
                 <div className="skills_title">PROJECTS (LINKS)</div>
                 <a href="https://www.bestjap.ru/" target="_blank" rel="noreferrer">Internet shop (Next.js)</a>
                 <a href="https://my-web-site-azure.vercel.app/" target="_blank" rel="noreferrer">Мy developer site (Next.js)</a>
-                <a href="https://spa-ashy.vercel.app/" target="_blank" rel="noreferrer">Layout of the news site (React + TypeScript)</a>
+                <a href="https://spa-ashy.vercel.app/" target="_blank" rel="noreferrer">Layout of the news site (React + TypeScript, no responsive layout)</a>
               </div>
               <div className="skills">
                 <div className="skills_title">GITHUB (LINKS)</div>
                 <a href="https://github.com/neksys-on/test2" target="_blank" rel="noreferrer">Internet shop (Next.js)</a>
                 <a href="https://github.com/neksys-on/myWebSite" target="_blank" rel="noreferrer">Мy developer site (Next.js)</a>
-                <a href="https://github.com/neksys-on/SPA" target="_blank" rel="noreferrer">Layout of the news site (React + TypeScript)</a>
+                <a href="https://github.com/neksys-on/SPA" target="_blank" rel="noreferrer">Layout of the news site (React + TypeScript, no responsive layout)</a>
                 <a href="https://github.com/neksys-on/my_business_card" target="_blank" rel="noreferrer">This site (React)</a>
               </div>
 
