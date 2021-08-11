@@ -18,7 +18,7 @@ function App() {
                 <div className="person_info"><div className="icon" style={{ backgroundImage: "url(/home.png)" }}></div>Varenikovskaya, Krasnodar, Russia</div>
                 <div className="person_info"><div className="icon" style={{ backgroundImage: "url(/phone.png)" }}></div><a href="tel: +79086752252" itemProp="telephone">+7 (908) 675-22-52</a></div>
                 <div className="person_info"><div className="icon" style={{ backgroundImage: "url(/mail.png)" }}></div><a href="mailto: neksyz@gmail.com" itemProp="email">neksyz@gmail.com</a></div>
-                <div className="person_info"><div className="icon" style={{ backgroundImage: "url(/git.png)" }}></div><a href="https://github.com/neksys-on" target="_blank">https://github.com/neksys-on</a></div>
+                <div className="person_info"><div className="icon" style={{ backgroundImage: "url(/git.png)" }}></div><a href="https://github.com/neksys-on" target="_blank" rel="noreferrer">https://github.com/neksys-on</a></div>
               </div>
               <div className="hr"/>
 
@@ -31,8 +31,8 @@ function App() {
 
               <div className="skills">
                 <div className="skills_title">PROJECTS (LINKS)</div>
-                <a href="https://www.bestjap.ru/" target="_blank">Internet shop</a>
-                <a href="https://my-web-site-azure.vercel.app/" target="_blank">Мy developer site</a>
+                <a href="https://www.bestjap.ru/" target="_blank" rel="noreferrer">Internet shop</a>
+                <a href="https://my-web-site-azure.vercel.app/" target="_blank" rel="noreferrer">Мy developer site</a>
               </div>
 
             </div>
