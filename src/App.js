@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <div className="fon" style={{ backgroundImage: "url(/fon_11.jpg)" }}></div>
+      <div className="fon" style={{ backgroundImage: "url(/fon_11.webp)" }}></div>
       <div className="wrapper">
 
         <div className="part_left">
@@ -14,11 +14,11 @@ function App() {
               <div className="position">Web Developer</div>
 
               <div className="person_info_container">
-                <div className="person_info"><div className="icon" style={{ backgroundImage: "url(/user.png)" }}></div>29 years (9/25/1991)</div>
-                <div className="person_info"><div className="icon" style={{ backgroundImage: "url(/home.png)" }}></div>Varenikovskaya, Krasnodar, Russia</div>
-                <div className="person_info"><div className="icon" style={{ backgroundImage: "url(/phone.png)" }}></div><a href="tel: +79086752252" itemProp="telephone">+7 (908) 675-22-52</a></div>
-                <div className="person_info"><div className="icon" style={{ backgroundImage: "url(/mail.png)" }}></div><a href="mailto: neksyz@gmail.com" itemProp="email">neksyz@gmail.com</a></div>
-                <div className="person_info"><div className="icon" style={{ backgroundImage: "url(/git.png)" }}></div><a href="https://github.com/neksys-on" target="_blank" rel="noreferrer">https://github.com/neksys-on</a></div>
+                <div className="person_info"><div className="icon" style={{ backgroundImage: "url(/user.webp)" }}></div>29 years (9/25/1991)</div>
+                <div className="person_info"><div className="icon" style={{ backgroundImage: "url(/home.webp)" }}></div>Varenikovskaya, Krasnodar, Russia</div>
+                <div className="person_info"><div className="icon" style={{ backgroundImage: "url(/phone.webp)" }}></div><a href="tel: +79086752252" itemProp="telephone">+7 (908) 675-22-52</a></div>
+                <div className="person_info"><div className="icon" style={{ backgroundImage: "url(/mail.webp)" }}></div><a href="mailto: neksyz@gmail.com" itemProp="email">neksyz@gmail.com</a></div>
+                <div className="person_info"><div className="icon" style={{ backgroundImage: "url(/git.webp)" }}></div><a href="https://github.com/neksys-on" target="_blank" rel="noreferrer">https://github.com/neksys-on</a></div>
               </div>
               <div className="hr"/>
 
