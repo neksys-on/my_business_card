@@ -128,8 +128,13 @@
   font-weight: 700;
   margin-bottom: 10px;
 }
-.skills a {
+.skills_text {
+  font-size: 17px;
+  font-weight: 600;
   margin-left: 15px;
+}
+.skills a {
+  margin: 8px 0 0 15px;
   font-size: 19px;
   font-weight: 600;
   text-decoration: none;

@@ -24,15 +24,23 @@ function App() {
 
               <div className="skills">
                 <div className="skills_title">SKILLS</div>
-                JS, TypeScript, HTML5, CSS, SASS, ES6, Node, React, Next, Express, Webpack, Nginx, Docker, Prisma, SQL, Postgres, MongoDB, GitHub, Canvas, Anime.js.
+                <div className="skills_text">JS, TypeScript, HTML5, CSS, SASS, ES6, Node, React, Next, Express, Webpack, Nginx, Docker, Prisma, SQL, Postgres, MongoDB, GitHub, Canvas, Anime.js.</div>
               </div>
 
               <div className="hr"/>
 
               <div className="skills">
                 <div className="skills_title">PROJECTS (LINKS)</div>
-                <a href="https://www.bestjap.ru/" target="_blank" rel="noreferrer">Internet shop</a>
-                <a href="https://my-web-site-azure.vercel.app/" target="_blank" rel="noreferrer">Мy developer site</a>
+                <a href="https://www.bestjap.ru/" target="_blank" rel="noreferrer">Internet shop (Next.js)</a>
+                <a href="https://my-web-site-azure.vercel.app/" target="_blank" rel="noreferrer">Мy developer site (Next.js)</a>
+                <a href="https://spa-ashy.vercel.app/" target="_blank" rel="noreferrer">Layout of the news site (React + TypeScript)</a>
+              </div>
+              <div className="skills">
+                <div className="skills_title">GITHUB (LINKS)</div>
+                <a href="https://github.com/neksys-on/test2" target="_blank" rel="noreferrer">Internet shop (Next.js)</a>
+                <a href="https://github.com/neksys-on/myWebSite" target="_blank" rel="noreferrer">Мy developer site (Next.js)</a>
+                <a href="https://github.com/neksys-on/SPA" target="_blank" rel="noreferrer">Layout of the news site (React + TypeScript)</a>
+                <a href="https://github.com/neksys-on/my_business_card" target="_blank" rel="noreferrer">This site (React)</a>
               </div>
 
             </div>
