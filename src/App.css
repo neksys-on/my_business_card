@@ -48,7 +48,6 @@
 .part_right {
   width: 70%;
   min-width: 280px;
-  height: 100%;
   display: flex;
   justify-content: center;
   color: #FFF;
@@ -63,7 +62,6 @@
 }
 .short_info_container {
   width: 100%;
-  min-height: 70%;
   background-color: #f47721;
   display: flex;
   justify-content: center;
