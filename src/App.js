@@ -60,7 +60,7 @@ function App() {
               <div className="right_info_text"><div className="text_decoration">■</div>Web scraping with Puppeteer.</div>
               <div className="right_info_title">EDUCATION</div>
               <div className="right_info_text">Unfortunately, I have no education related to IT, except that at the time of school I went to courses in Pascal and Delphi for 2 years. I am an electrician by education, and for 7 years I worked as an electrician for maintenance of substations.</div>
-              <div className="right_info_title">ANOTHER IT EXPIRIENS</div>
+              <div className="right_info_title">ANOTHER IT EXPERIENCE</div>
               <div className="right_info_text">Before doing web development, I was writing bots for games for personal use and making money on gaming resources. Basically, I made bots using AutoHotkey, and in the end I switched to C++.</div>
             </div>
           </div>
