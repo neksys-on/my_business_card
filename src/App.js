@@ -7,7 +7,7 @@ function App() {
       <div className="wrapper">
 
         <div className="part_left">
-          {/*<div className="photo" style={{ backgroundImage: "url(/user.png)" }}></div>*/}
+          <div className="photo" style={{ backgroundImage: "url(/foto.jpg)" }}></div>
           <div className="short_info_container">
             <div className="short_info">
               <div className="name">DMITRIY SAVCHUK</div>
@@ -40,7 +40,7 @@ function App() {
                 <a href="https://github.com/neksys-on/test2" target="_blank" rel="noreferrer">Internet shop (Next.js)</a>
                 <a href="https://github.com/neksys-on/myWebSite" target="_blank" rel="noreferrer">Мy developer site (Next.js)</a>
                 <a href="https://github.com/neksys-on/SPA" target="_blank" rel="noreferrer">Layout of the news site (React + TypeScript, no responsive layout)</a>
-                <a href="https://github.com/neksys-on/my_business_card" target="_blank" rel="noreferrer">This site (React)</a>
+                {/*<a href="https://github.com/neksys-on/my_business_card" target="_blank" rel="noreferrer">This site (React)</a>*/}
               </div>
 
             </div>
