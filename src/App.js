@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <div className="fon" style={{ backgroundImage: "url(/fon_11.webp)" }}></div>
+      <div className="fon" ></div>
       <div className="wrapper">
 
         <div className="part_left">
